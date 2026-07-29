@@ -1,0 +1,11 @@
+let num1 = Number(prompt("Digite seu primeiro numero:"));
+console.log("x1:", num1*1)
+console.log("x2:", num1*2)
+console.log("x3:", num1*3)
+console.log("x4:", num1*4)
+console.log("x5:", num1*5)
+console.log("x6:", num1*6)
+console.log("x7:", num1*7)
+console.log("x8:", num1*8)
+console.log("x9:", num1*9)
+console.log("x10:", num1*10)
